@@ -71,7 +71,7 @@ The application will perform the following steps:
 
 ## What is included?
 
-#### These gems are added to the standard Rails stack
+#### These gems are added
 
 * [jsonapi_resources][http://jsonapi-resources.com/] – for JSON data patterns.
 * [nokogiri][https://nokogiri.org/] – for parsing the HTML.
