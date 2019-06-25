@@ -2,21 +2,6 @@
 
 Index the content of H1, H2, H3, and Links from a given Url.
 
-## Getting Started
-
-
-
-### Prerequisites
-
-
-
-### Installing
-
-
-
-
-# mattbrictson/rails-template
-
 ## Description
 
 This is the application template that I use for my Rails 5.2 projects. As a freelance Rails developer, I need to be able to start new projects quickly and with a good set of defaults. I've assembled this template over the years to include best-practices, tweaks, documentation, and personal preferences, while still generally adhering to the "Rails way".
